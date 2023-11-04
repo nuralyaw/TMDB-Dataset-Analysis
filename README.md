@@ -1,4 +1,4 @@
-# TMDB-Dataset-EDA
+# TMDB-Dataset-Analysis
 
  This repository contains the code and visualizations for an Analysis of the TMDB (The Movie Database) dataset. It involved getting the dataset cleaned and pre-processed, ready for an Exploratory Data Analysis (EDA).  
 
